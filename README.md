@@ -1,1 +1,5 @@
 # SoftwareQA
+
+The best method to ensure code/programs run functionally and securely is to properly test them. These tests could range from unit tests to dynamic testing. The best methods I personally have found to test my programs are unit testing and white box testing because they both work well together. Incorporating using needed into your code can be rough at times. The best methods I have found to help are to understand what the user wants and generalize the actions needed to reach that goal. During my systems design class, I learned that not always is writing the code the best way to fix user needs. Sometimes just a properly designed system can help just as much. Software design should be approached in segments, then slowly connected into a whole. One example of this is in a video I was recently watching about a full-stack application. The application itself was not that complicated but since there were many different parts to it each part was worked on separately and then merged together. I will provide a link to the video as I found it a good watch during my free time.
+
+https://www.youtube.com/watch?v=O_XL9oQ1_To
